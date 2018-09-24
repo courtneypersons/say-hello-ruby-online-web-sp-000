@@ -5,4 +5,3 @@ puts "Hello #{name} #{langues}"
 
 end
 
-say_hello
